@@ -6,4 +6,4 @@ var userSchema = mdb.Schema({
     password: String
 })
 var user_schema = mdb.model("users", userSchema)
-module.exports = user_schema;
+module.exports = user_schema;
