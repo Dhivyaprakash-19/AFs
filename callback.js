@@ -1,7 +1,7 @@
 
 databaseSharing =() =>
 {
-    console.log("Data Stored Successfully");
+    console.log("Data Stored Successfully ");
 }
 
 function submitform(formMsg,dbs){
