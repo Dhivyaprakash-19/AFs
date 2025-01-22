@@ -16,7 +16,7 @@ app.use(cors());
 mdb
   .connect(process.env.MONGO_URL)
   .then(() => {
-    console.log("Mongodb Connection Successful");
+    console.log("Mongodb Connection Successful!!!");
   })
   .catch((err) => {
     console.log(err);
