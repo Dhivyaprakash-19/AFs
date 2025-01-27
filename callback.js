@@ -5,7 +5,7 @@ databaseSharing =() =>
 }
 
 function submitform(formMsg,dbs){
-    setTimeout(()=>{
+    setTimeout(()=>{ 
         dbs();
     console.log(formMsg);
     },1000)
