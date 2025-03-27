@@ -11,7 +11,7 @@ var var2=20
 var sum=var1+var2
 console.log(sum)
 
-//Relational operators
+//Relational operators   
 
 var rel1=30
 var rel2="30"
